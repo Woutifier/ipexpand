@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <argp.h>
 
-const char *argp_program_version = "ipexpand 1.0";
+const char *argp_program_version = "ipexpand 0.1";
 const char *argp_program_bug_address = "<w.b.devries@utwente.nl>";
 
 static char doc[] = "ipexpand -- expand csv file with ip addresses to /24's\r\nExpects an ip address in the first column and a subnet in the second";
